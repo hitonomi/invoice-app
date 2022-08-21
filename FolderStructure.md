@@ -1,0 +1,5 @@
+- Base
+  - all the reusable code which can be shared
+    - helpers, components, types, etc,
+- Modules
+  - all the features, ex. authentication, etc.
