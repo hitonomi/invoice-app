@@ -4,7 +4,7 @@ import { ReactNode } from "react";
 export const NavBar = ({ children }: { children: ReactNode }) => (
   <Box
     sx={{
-      width: "100px",
+      width: "103px",
       height: "100vh",
       borderRadius: "0px 20px 20px 0px;",
     }}
