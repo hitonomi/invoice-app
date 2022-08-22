@@ -16,11 +16,11 @@ const THEME_BASE_PALETTE: PaletteOptions = {
   },
   secondary: { main: "#1E2139" },
   error: { main: "#EC5757", "400": "#9277FF" },
-  background: { default: "#F8F8FB", paper: "#F8F8FB" },
 };
 
 export const THEME_LIGHT_MODE: PaletteOptions = {
   text: { primary: "#0C0E16", disabled: "#7E88C3" },
+  background: { default: "#F8F8FB", paper: "#F8F8FB" },
   ...THEME_BASE_PALETTE,
 };
 
